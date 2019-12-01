@@ -37,8 +37,6 @@ Awake comes with Font Awesome 5 support out of the box, so you have a wealth of 
 
 > Lazy Loading Like Crazy
 
-
-
 <h1> hi </h1>
 
 ``
